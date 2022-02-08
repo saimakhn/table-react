@@ -26,10 +26,10 @@ const DataTable = ({ data }) => {
    */
   const useSortedData = (data, config = null) => {
     const [sortConfig, setSortConfig] = useState(config);
-    const assetClassSortConfig = { equities: 0, macro: 1, credit: 2 };
 
     const sortedData = useMemo(() => {
       let unsortedData = [...data];
+      let assetClassSortConfig = { equities: 0, macro: 1, credit: 2 };
       if (sortConfig !== null) {
         if (sortConfig.sortBy === "assetClass") {
           unsortedData.sort((a, b) => {

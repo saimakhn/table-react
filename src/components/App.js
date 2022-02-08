@@ -3,7 +3,6 @@ import ErrorPage from "./ErrorPage";
 import React, { useState, useEffect } from "react";
 
 /**  Static sample data Json  */
-
 const SAMPLE_DATA_URL = "./sampleData.json";
 
 function App() {
@@ -16,7 +15,6 @@ function App() {
   }, []);
 
   /**  Fetches data and sets error and loading state */
-
   async function getData() {
     try {
       const response = await fetch(SAMPLE_DATA_URL);
