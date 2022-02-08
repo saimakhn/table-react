@@ -1,0 +1,92 @@
+[
+  { "id": 1,
+    "ticker": "ALPHA",
+    "price": 3150.67,
+    "assetClass": "Credit"
+  },
+  { "id": 2,
+    "ticker": "BETA",
+    "price": -3791.37,
+    "assetClass": "Equities"
+  },
+  { "id": 3,
+    "ticker": "GAMMA",
+    "price": 2299.1,
+    "assetClass": "Equities"
+  },
+  { "id": 4,
+    "ticker": "DELTA",
+    "price": 3132.66,
+    "assetClass": "Equities"
+  },
+  { "id": 5,
+    "ticker": "EPSILON",
+    "price": -1168.46,
+    "assetClass": "Credit"
+  },
+  { "id": 6,
+    "ticker": "ZETA",
+    "price": 2716.78,
+    "assetClass": "Credit"
+  },
+  { "id": 7,
+    "ticker": "ETA",
+    "price": 3089.2,
+    "assetClass": "Macro"
+  },
+  { "id": 8,
+    "ticker": "THETA",
+    "price": -1075.44,
+    "assetClass": "Macro"
+  },
+  { "id": 9,
+    "ticker": "IOTA",
+    "price": 1096.64,
+    "assetClass": "Macro"
+  },
+  { "id": 10,
+    "ticker": "KAPPA",
+    "price": 2321.17,
+    "assetClass": "Credit"
+  },
+  { "id": 11,
+    "ticker": "LAMBDA",
+    "price": 1472.2,
+    "assetClass": "Credit"
+  },
+  { "id": 12,
+    "ticker": "MU",
+    "price": 2136.64,
+    "assetClass": "Macro"
+  },
+  { "id": 13,
+    "ticker": "NU",
+    "price": 2744.89,
+    "assetClass": "Macro"
+  },
+  { "id": 14,
+    "ticker": "OMIKRON",
+    "price": 2735.1,
+    "assetClass": "Equities"
+  },
+  { "id": 15,
+    "ticker": "SIGMA",
+    "price": 1854.19,
+    "assetClass": "Equities"
+  },
+  { "id": 16,
+    "ticker": "TAU",
+    "price": 2082.71,
+    "assetClass": "Macro"
+  },
+  { "id": 17,
+    "ticker": "OMEGA",
+    "price": 2306.35,
+    "assetClass": "Equities"
+  },
+  { "id": 18,
+    "ticker": "PSI",
+    "price": 2997.78,
+    "assetClass": "Credit"
+  }
+]
